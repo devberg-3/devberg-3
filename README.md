@@ -9,7 +9,7 @@
 
 
 - 🔭 I’m currently working on Alumni tracking system(Full Stack Project) 
-- 🌱 I’m currently learning AWS cloud 
+- 🌱 I’m currently learning ML algoritms and Working on projects
 - ⚡ Pastime: I am a movie buff and have a never-ending list of must-watch films. I appreciate various genres, from Crime/Thriller to Dystopian, and enjoy discussing movies with fellow cinephiles. 
 
 <h3 align="left">Connect with me</h3>
